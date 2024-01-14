@@ -10,6 +10,7 @@
       "pie_labels": ["Equities", "Fixed Income", "Cash", "Alternatives and others"],
       "pie_values": [60, 20, 10, 20],
       "pie_colors": ["#2AADFE", "#49EAE2", "#8264B4", "#C57B84"],
+      "model_portfolio_weights" : [50, 30, 10, 10]
     }
   ]
 }
