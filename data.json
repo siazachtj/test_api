@@ -1,18 +1,19 @@
 {
-  "data":
- [
-   {
-  "client_name": "John Doe",
-  "years_with_company": 5,
-  "current_holdings": "$500,000",
-  "overall_performance": "15%",
-  "section_choice": "investment",
-  "risk_strategy": "maintain",
-  "pie_labels": ["Equities", "Fixed Income", "Cash", "Alternatives and others"],
-  "pie_values": [60, 20, 10, 20],
-  "pie_colors": ["#2AADFE", "#49EAE2", "#8264B4", "#C57B84"],
-  "creation_date": null,
-  "comparison_data": null,  
-  "model_portfolio_weights": [50,30,10,10], 
-  "scatter_chart_data": null  
+  "data": [
+    {
+      "client_name": "John Doe",
+      "years_with_company": 5,
+      "current_holdings": "$500,000",
+      "overall_performance": "15%",
+      "section_choice": "investment",
+      "risk_strategy": "maintain",
+      "pie_labels": ["Equities", "Fixed Income", "Cash", "Alternatives and others"],
+      "pie_values": [60, 20, 10, 20],
+      "pie_colors": ["#2AADFE", "#49EAE2", "#8264B4", "#C57B84"],
+      "creation_date": null,
+      "comparison_data": null,  
+      "model_portfolio_weights": [50, 30, 10, 10],  // Removed the trailing comma here
+      "scatter_chart_data": null  
+    }
+  ]
 }
