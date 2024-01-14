@@ -12,7 +12,7 @@
       "pie_colors": ["#2AADFE", "#49EAE2", "#8264B4", "#C57B84"],
       "creation_date": null,
       "comparison_data": null,  
-      "model_portfolio_weights": [50, 30, 10, 10],  // Removed the trailing comma here
+      "model_portfolio_weights": [50, 30, 10, 10],  
       "scatter_chart_data": null  
     }
   ]
